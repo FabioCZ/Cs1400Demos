@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgressBarDemo", "ProgressBarDemo.vcxproj", "{9FECF4C3-DE4F-4B78-811D-D79227B7CAC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FECF4C3-DE4F-4B78-811D-D79227B7CAC9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9FECF4C3-DE4F-4B78-811D-D79227B7CAC9}.Debug|Win32.Build.0 = Debug|Win32
+		{9FECF4C3-DE4F-4B78-811D-D79227B7CAC9}.Release|Win32.ActiveCfg = Release|Win32
+		{9FECF4C3-DE4F-4B78-811D-D79227B7CAC9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
